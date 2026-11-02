@@ -6,4 +6,4 @@
 * **Lab Five:** [Click Here to View]()
 * **Lab Six:** [Click Here to View]()
 * **Lab Seven:** [Click Here to View]()
-* **Lab Eight:** [Click Here to View]()
+* **Lab Eight:** [Click Here to View](https://github.com/ebfshahbaz01/4Th-Sem-IT/blob/main/CN-IT/LABs/LAB-Tasks/LAB-08.pkt)
